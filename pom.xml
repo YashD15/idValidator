@@ -9,8 +9,28 @@
 
   <name>Identity Validator</name>
   <!-- FIXME change it to the project's website -->
-  <url></url>
   <description>Utility library for validating Indian government identity formats</description>
+  <url>https://github.com/YashD15/idValidator</url>
+  <licenses>
+      <license>
+          <name>MIT License</name>
+          <url>https://opensource.org/licenses/MIT</url>
+          <distribution>repo</distribution>
+      </license>
+  </licenses>
+  <developers>
+    <developer>
+        <id>YashD15</id>
+        <name>Vinsmoke Sanji</name>
+        <email>Mail</email>
+    </developer>
+  </developers>
+
+  <scm>
+      <connection>scm:git:git://github.com/YashD15/idValidator.git</connection>
+      <developerConnection>scm:git:ssh://github.com:YashD15/idValidator.git</developerConnection>
+      <url>https://github.com/YashD15/idValidator</url>
+  </scm>
 
 
   <properties>
